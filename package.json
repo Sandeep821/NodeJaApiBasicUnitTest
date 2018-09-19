@@ -11,6 +11,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "mocha": "^5.2.0",
+    "sinon": "^6.3.4",
     "supertest": "^3.3.0"
   }
 }
